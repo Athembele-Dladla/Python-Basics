@@ -1,0 +1,9 @@
+fruits = ["apple, banana, cherry"]
+
+for fruits in fruits:
+    print(fruits)
+    
+numbers = [1, 2, 3, 4]
+
+for number in numbers:
+    print(number)
